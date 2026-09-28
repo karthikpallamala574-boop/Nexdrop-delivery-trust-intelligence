@@ -6,7 +6,6 @@ Tools Used
 - Power BI
 - SQL
 - Python
-- Excel
 
 Business Questions Answered
 
