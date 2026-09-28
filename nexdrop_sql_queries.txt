@@ -1,0 +1,25 @@
+SELECT subscription,
+ROUND(AVG(customer_rating),2)
+AS avg_rating
+FROM nexdrop
+GROUP BY subscription;
+
+SELECT country,
+ROUND(AVG(actual_eta-promised_eta),2)
+AS avg_delay
+FROM nexdrop
+GROUP BY country
+ORDER BY avg_delay DESC;
+
+SELECT subscription,
+ROUND(
+AVG(actual_eta-promised_eta),2
+)
+AS avg_delay
+FROM nexdrop
+GROUP BY subscription;
+
+SELECT premium_dissatisfaction,
+COUNT(*)
+FROM nexdrop
+GROUP BY premium_dissatisfaction;
