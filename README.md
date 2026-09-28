@@ -1,5 +1,5 @@
-Delivery Trust Intelligence: NexDrop Case Study
-Project Objective
+**Delivery Trust Intelligence: NexDrop Case Study**
+**Project Objective**
 Evaluate whether premium subscriptions improve customer trust, ETA reliability, and overall satisfaction in hyperlocal delivery platforms.
 
 Tools Used
