@@ -36,4 +36,6 @@ Recommendations
 - Dashboard screenshots
 - SQL analysis
 
+Dashboard
 
+![image alt](https://github.com/karthikpallamala574-boop/Nexdrop-delivery-trust-intelligence/blob/1b5a45da1956d83077cab816c0e5d013d7c0e819/Screenshot%202026-10-03%20073827.png)
